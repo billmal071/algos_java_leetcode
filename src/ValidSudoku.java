@@ -1,13 +1,17 @@
 import java.util.HashSet;
 import java.util.Set;
-import java.util.stream.IntStream;
 
 public class ValidSudoku {
     public boolean isValidSudoku(char[][] board) {
+        //neetcode solution, slightly modified
+
+        //a set of the characters that we have already come across (excluding '.' which denotes an empty space)
         Set<Character> rowSet = null;
         Set<Character> colSet = null;
 
+
         for (int i = 0; i < 9; i++) {
+            //reinitialize the sets so we don't carry over found characters from the previous run
             rowSet = new HashSet<>();
             colSet = new HashSet<>();
             for (int j = 0; j < 9; j++) {
@@ -30,13 +34,17 @@ public class ValidSudoku {
             }
         }
 
-        // block
-        for (int i : IntStream.rangeClosed(0, 9).toArray()){
+        //block
+        //loop controls advance by 3 each time to jump through the boxes
+        for (int i = 0; i < 9; i = i + 3) {
             for (int j = 0; j < 9; j = j + 3) {
-                if (!checkBlock(i, j, board)) return false;
+                //checkBlock will return true if valid
+                if (!checkBlock(i, j, board)) {
+                    return false;
+                }
             }
         }
-
+        //passed all tests, therefore valid board
         return true;
     }
 
