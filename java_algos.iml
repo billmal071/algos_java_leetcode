@@ -7,6 +7,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="cfbcb058-e335-49f9-910c-4ecbfd79703a" />
   </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="7f508070-fe2c-4ee9-b7ff-c50564e79652" />
