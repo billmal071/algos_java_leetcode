@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Dinglemouse {
+public class DingleMouse {
     // can I use sliding window
     // window_size = 3
     // total length = numbers.length
