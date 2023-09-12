@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3df9cc66-3c1d-4820-bdd5-a84b146d1c21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DingleMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DingleMouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EvalRPN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvalRPN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FunctionalJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionalJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumReplacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinimumReplacement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StreamsCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsCourse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Threesum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threesum.java" afterDir="false" />
     </list>
@@ -130,7 +129,8 @@
       <workItem from="1693512816742" duration="8008000" />
       <workItem from="1693856272726" duration="11137000" />
       <workItem from="1693936957596" duration="5489000" />
-      <workItem from="1694016152458" duration="1343000" />
+      <workItem from="1694016152458" duration="4719000" />
+      <workItem from="1694519353833" duration="2309000" />
     </task>
     <servers />
   </component>
