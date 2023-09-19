@@ -11,6 +11,9 @@
       <change beforePath="$PROJECT_DIR$/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EvalRPN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvalRPN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FunctionalJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FunctionalJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LargestPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LargestPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxProfit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MinimumReplacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinimumReplacement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StreamsCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreamsCourse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Threesum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Threesum.java" afterDir="false" />
@@ -130,11 +133,21 @@
       <workItem from="1693856272726" duration="11137000" />
       <workItem from="1693936957596" duration="5489000" />
       <workItem from="1694016152458" duration="4719000" />
-      <workItem from="1694519353833" duration="2309000" />
+      <workItem from="1694519353833" duration="6152000" />
+      <workItem from="1694542146754" duration="1205000" />
+      <workItem from="1694709698156" duration="5744000" />
+      <workItem from="1694798996408" duration="1849000" />
+      <workItem from="1695000548728" duration="4932000" />
+      <workItem from="1695036247328" duration="7482000" />
+      <workItem from="1695057781506" duration="4598000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

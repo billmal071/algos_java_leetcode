@@ -11,18 +11,11 @@ public class EvalRPN {
                 int right = stack.pop();
                 int left = stack.pop();
                 switch (token) {
-                    case "+":
-                        stack.push(left + right);
-                        break;
-                    case "-":
-                        stack.push(left - right);
-                        break;
-                    case "*":
-                        stack.push(left * right);
-                        break;
-                    case "/":
-                        stack.push(left / right);
-                        break;
+                    case "+" -> stack.push(left + right);
+                    case "-" -> stack.push(left - right);
+                    case "*" -> stack.push(left * right);
+                    case "/" -> stack.push(left / right);
+                    default -> System.out.println("Not an operator");
                 }
             } else {
                 stack.push(Integer.parseInt(token));
@@ -30,21 +23,25 @@ public class EvalRPN {
         }
         int result = 0;
         for (String token : tokens) {
-            if (token.equals("+")) {
-                result = stack.pop() + stack.pop();
-                stack.push(result);
-            } else if (token.equals("-")) {
-                result = -stack.pop() + stack.pop();
-                stack.push(result);
-            } else if (token.equals("*")) {
-                result = stack.pop() * stack.pop();
-                stack.push(result);
-            } else if (token.equals("/")) {
-                int divisor = stack.pop();
-                result = stack.pop() / divisor;
-                stack.push(result);
-            } else {
-                stack.push(Integer.parseInt(token));
+            switch (token) {
+                case "+" -> {
+                    result = stack.pop() + stack.pop();
+                    stack.push(result);
+                }
+                case "-" -> {
+                    result = -stack.pop() + stack.pop();
+                    stack.push(result);
+                }
+                case "*" -> {
+                    result = stack.pop() * stack.pop();
+                    stack.push(result);
+                }
+                case "/" -> {
+                    int divisor = stack.pop();
+                    result = stack.pop() / divisor;
+                    stack.push(result);
+                }
+                default -> stack.push(Integer.parseInt(token));
             }
         }
         return stack.pop();
