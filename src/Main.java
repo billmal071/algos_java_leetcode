@@ -41,6 +41,6 @@ public class Main {
 //        Replicate replicate = new Replicate();
 //        System.out.println(Arrays.toString(replicate.replicate(3, 5)));
 
-        LargestPermutation.largestPermutation(2, List.of(1, 2, 3, 3, 3, 4, 5, 5, 4));
+        LargestPermutation.largestPermutation(2, List.of(1, 2, 3, 5, 4));
     }
 }

@@ -41,3 +41,25 @@ A
 src/Threesum.java,7/2/728e63df581d1ad1bb4009560d05193d504661af
 L
 src/GenerateParenthesis.java,f/1/f1837fa3e5f85e67862ea892de2b12712a02aa6d
+F
+src/StreamsCourse.java,4/1/410c76c3d39489a0fbac36ae52b49a93d6067d5e
+F
+src/GroupAnagrams.java,0/5/050a48ae3cffb9560b780e4d8774b7c2d7a15b0d
+K
+src/LargestPermutation.java,c/c/cc57183e659d9d9bbc02f1b16485deccaabbe890
+E
+src/SearchMatrix.java,b/9/b9d4764fdbe95a692f57cb9073dfb1ab115fc6de
+C
+src/MaxProduct.java,5/a/5a09213498675f2c33842b14c29494036485b0f4
+I
+src/FrequentElements.java,1/e/1e0d15062f38e4b6470577e8b4d7cd5e2dac5428
+C
+src/Operations.java,1/5/151a9e776cb65c500bc26c6a11043463bacc8cee
+D
+src/StringCodec.java,c/8/c83e4d0b58b74538e1510bd2ac2c2f1eeed40ee9
+J
+src/LongestPalindrome.java,9/1/915f953646e11dce0d5ad68a7b1e9ecba6713d7e
+E
+src/IsPalindrome.java,b/6/b6b7f3fad0088a44933ebdfc771790964801cbf6
+F
+src/ReverseString.java,2/2/2276cf3f7f2defc10259f641955b4758c5c356d5

@@ -1,7 +1,7 @@
 
-
-java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "bracket".(€İƒŸøÿÿÿÿ8¥ºÀª1
+>
+java:S1643"Use a StringBuilder instead.(íÙÔ€úÿÿÿÿ8ú°™·1
 7
-java:S1220""Move this file to a named package.8¦ºÀª1
-E
-java:S1172"(Remove this unused method parameter "n".(ÔóÏš8¬ºÀª1
+java:S1220""Move this file to a named package.8ú°™·1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8±™·1

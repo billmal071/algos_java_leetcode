@@ -1,11 +1,11 @@
 
-0
-java:S1220""Move this file to a named package.
-h
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ξ€
-S	java:S106'"9Replace this use of System.out or System.err by a logger.(ΉΚανωÿÿÿÿ
-S	java:S106."9Replace this use of System.out or System.err by a logger.(ΉΚανωÿÿÿÿ
-h
-java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(­ΙΚ
-?
-java:S1172"(Remove this unused method parameter "n".(‡ΤΙΝ
+7
+java:S1220""Move this file to a named package.8¤™·1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ξ€8©™·1
+L	java:S106'"+Replace this use of System.out by a logger.(ΉΚανωÿÿÿÿ8·™·1
+L	java:S106."+Replace this use of System.out by a logger.(ΉΚανωÿÿÿÿ8»™·1
+o
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(­ΙΚ8Γ™·1
+F
+java:S1172"(Remove this unused method parameter "n".(‡ΤΙΝ8Ψ™·1
